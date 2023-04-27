@@ -1,0 +1,7 @@
+1. Use the overlays created in Camera Control to create a solid background (rather than transparent background which is all that is supported by the mainboard ID titling right now).
+
+2. PTZ information (azimuth, elevation, compass direction) is displayable but does not support a timeout if wanting to use the solid background labels (e.g. the overlay labels where we can change the color/etc).
+
+3. Preset name is displayable but does not support a timeout if wanting to use the solid background labels, same as case 2 above.
+
+4. Overlay text location is user defined on x and y axes for overlay labels that support the solid background.
